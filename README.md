@@ -137,7 +137,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome! Will help me a lot to improve my coding skills.
 
-Feel free to check the [issues page](https://github.com/enmanuelbayen/OOP-school-library/issues)
+Feel free to check the [issues page](https://github.com/mhnazary/OOP-school-library/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
