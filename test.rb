@@ -3,7 +3,7 @@ require_relative 'capitalize_decorator'
 require_relative 'trimmer_decorator'
 
 # Create a new object of the Person class
-person = Person.new(34, 'lionalmessi')
+person = Person.new(22, 'maximilianus')
 
 # Create a new object of the CapitalizeDecorator class
 capitalized_person = CapitalizeDecorator.new(person)
