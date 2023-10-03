@@ -117,8 +117,8 @@ To run tests, run the following command:
 
 👤 **Mahram Hossain🔭**
 
-- GitHub: [@enmanuelbayen](https://github.com/mhnazary)
-- Twitter: [@EJbayen](https://twitter.com/mh_nazary)
+- GitHub: [@Mahram Hossain](https://github.com/mhnazary)
+- Twitter: [@Mahram Hossain](https://twitter.com/mh_nazary)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mh-nazary-515686204/)
 
  align="right">(<a href="#readme-top">back to top</a>)</p>
