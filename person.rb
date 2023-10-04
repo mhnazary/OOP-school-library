@@ -2,7 +2,7 @@ require_relative 'nameable'
 
 class Person < Nameable
   attr_reader :id
-  attr_accessor :name, :age :rental
+  attr_accessor :name, :age, :rental
 
   # this is a constructor method
   def initialize(id = rand(1...100), name = 'Unknown', age = nil, parent_permission: true)
