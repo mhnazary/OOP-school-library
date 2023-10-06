@@ -1,7 +1,7 @@
 class Book
-  attr_accessor :title, :author
+  attr_accessor :title, :author, :rentals
 
-  #   constructor method for Book class that takes a title and author as arguments
+  # constructor method for Book class that takes a title and author as arguments
   def initialize(title, author)
     @title = title
     @author = author
