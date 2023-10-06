@@ -1,17 +1,15 @@
-require_relative 'classroom'
 require_relative 'person'
+require_relative 'classroom'
 
 class Student < Person
   attr_reader :classroom
 
-  # constructor method for Student class that takes an age, parent_permission and name as arguments
-  def initialize(age, parent_permission: true, name: 'Unknown')
-    super(age, parent_permission: parent_permission, name: name)
-    @classroom = classroom
+  def initialize(name: 'Unknown', age: nil, parent_permission: true)
+    super(name, age, parent_permission: parent_permission)
   end
 
   def play_hooky
-    '¯\(ツ)/¯'
+    '¯\\_(ツ)_/¯'
   end
 
   def classroom=(classroom)
