@@ -51,7 +51,7 @@ The site was built with Ruby
 
 ### Key Features <a name="key-features"></a>
 
-- Module and class for the application 
+- Module and class for the application
 - Ruby linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,7 +106,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```sh
-  rspec spec/
+  rspec spec/testFoltername
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
