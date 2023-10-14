@@ -119,7 +119,7 @@ To run tests, run the following command:
 
 - GitHub: [@Mahram Hossain](https://github.com/mhnazary)
 - Twitter: [@Mahram Hossain](https://twitter.com/mh_nazary)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahram-hossain-nazary-515686204/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/mahram-hossain-nazary-515686204/)
 
  align="right">(<a href="#readme-top">back to top</a>)</p>
 
